@@ -1,5 +1,3 @@
-# My-coding
-
 ## Coding Journey
 A repository where I document my progress learning programming across multiple languages.
 
