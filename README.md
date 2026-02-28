@@ -1,7 +1,11 @@
-## Coding Journey
+### Coding Journey
 A repository where I document my progress learning programming across multiple languages.
 
-## C# - fundamentals, OOP, arrays
+
+### Languages
+ 
+- C# - fundamentals, OOP, arrays
+  
 - Python  - basics, file handling, mini projects
   
 - JavaScript  - DOM manipulation, functions, APIs
@@ -10,7 +14,7 @@ A repository where I document my progress learning programming across multiple l
   
 - CSS  - flexbox, grid, themes 
 
-## Goals
+### Goals
 - Learn the fundamentals of multiple languages
 - Build small projects along the way
 - Track my progress over time
